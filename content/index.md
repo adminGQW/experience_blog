@@ -1,109 +1,116 @@
 ---
 title: 首页
+description: 郭骐玮的个人主页，介绍教育背景、研究兴趣与学习记录。
 enableToc: true
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '62298320-ea29-4f35-be52-dd1ead60a662'
-  PropagateID: '62298320-ea29-4f35-be52-dd1ead60a662'
-  ReservedCode1: '000007eb-78c3-4357-9aff-7f51706969e7'
-  ReservedCode2: '000007eb-78c3-4357-9aff-7f51706969e7'
 ---
 
-<div class="home-hero">
-  <img class="home-avatar" src="https://avatars.githubusercontent.com/adminGQW" alt="avatar" />
-  <div class="home-hero-text">
-    <h1 class="home-title">郭骐玮的 Blog</h1>
+<section class="profile-home">
+  <aside class="profile-card">
+    <img class="profile-avatar" src="https://avatars.githubusercontent.com/adminGQW" alt="郭骐玮头像" />
+    <h1>郭骐玮</h1>
+    <p class="profile-name-en">Guo Qiwei</p>
+    <p class="profile-role">本科生 · 微电子科学与工程</p>
+    <ul class="profile-meta">
+      <li>江苏大学 物理与电子工程学院</li>
+      <li>2023 级 · 预计 2027 年毕业</li>
+      <li>拟赴西安电子科技大学直博</li>
+    </ul>
+    <div class="profile-links">
+      <a href="mailto:guoqw_ee@163.com">Email</a>
+      <a href="https://github.com/adminGQW" target="_blank">GitHub</a>
+      <a href="About/index">About</a>
+    </div>
+  </aside>
+
+  <div class="profile-main">
+    <p class="eyebrow">Personal Homepage</p>
+    <h2>郭骐玮的个人工作与科研主页</h2>
+    <p>
+      我是江苏大学物理与电子工程学院微电子科学与工程专业 2023 级本科生，目前为大四学生。
+      我的学习和实践经历主要围绕微电子、电子信息与智能系统展开，关注基础理论学习、工程实践和科研训练之间的联系。
+    </p>
+    <p>
+      本科毕业后，我将赴西安电子科技大学继续攻读博士学位。这个网站用于介绍个人经历，
+      记录学习思考，并整理公开的项目、资料与笔记。
+    </p>
+    <div class="quick-actions">
+      <a href="About/index">个人简介</a>
+      <a href="#research-interests">研究兴趣</a>
+      <a href="#knowledge-base">知识库</a>
+    </div>
   </div>
-</div>
+</section>
 
----
+<h2 id="research-interests">Research Interests</h2>
 
-## 知识分区
+<p>
+  我的研究兴趣仍在持续形成和拓展中，现阶段主要关注微电子与电子信息领域的基础知识、
+  智能系统及相关工程问题，希望在后续博士阶段进一步明确研究方向。
+</p>
 
-<div class="card-grid">
-  <a class="card" href="书中自有黄金屋/MOC">
-    <div class="card-icon">📚</div>
-    <div class="card-body">
-      <div class="card-title">书中自有黄金屋</div>
-      <div class="card-desc">书本笔记 · 微电子与嵌入式相关</div>
-    </div>
-  </a>
-  <a class="card" href="术中自有万钟粟/MOC">
-    <div class="card-icon">⚙️</div>
-    <div class="card-body">
-      <div class="card-title">术中自有万钟粟</div>
-      <div class="card-desc">技术笔记 · 嵌入式软硬件 · EDA工具 · AI配置</div>
-    </div>
-  </a>
-  <a class="card" href="库中车马多如簇/MOC">
-    <div class="card-icon">🔩</div>
-    <div class="card-body">
-      <div class="card-title">库中车马多如簇</div>
-      <div class="card-desc">模块笔记 · 外设驱动 · 通信协议 · 硬件原理图</div>
-    </div>
-  </a>
-</div>
+<ul>
+  <li>微电子器件、集成电路与电子系统</li>
+  <li>智能装备与机器人系统</li>
+  <li>嵌入式系统及软硬件协同</li>
+  <li>电子信息领域的建模、控制与实验方法</li>
+</ul>
 
----
+## Education
 
-## 项目
+| 时间 | 经历 |
+| --- | --- |
+| 2023.09 - 2027.06 | 江苏大学，微电子科学与工程，本科 |
+| 未来 | 西安电子科技大学，直博 |
 
-<div class="card-grid">
-  <a class="card" href="Projects/RoboMaster-robot">
-    <div class="card-icon">🤖</div>
-    <div class="card-body">
-      <div class="card-title">2025 哨兵机器人电控</div>
-      <div class="card-desc">STM32F407 · FreeRTOS · PID控制 · 功率管理 · 超级电容</div>
-    </div>
+本科期间学分绩点为 **3.84 / 5.0**，专业排名 **6 / 70**，CET-6 成绩为 **546**。
+
+## Recent News
+
+- **2026** · 进入本科毕业阶段，准备继续开展科研学习。
+- **2026** · 已确定后续赴西安电子科技大学直博。
+- **2025** · 参与多项大学生学科竞赛与工程实践，获得国家级奖项。
+- **持续更新** · 整理课程笔记、技术资料与个人学习记录。
+
+## Recognition
+
+| 类别 | 代表成果 |
+| --- | --- |
+| 国家级竞赛 | 特等奖 1 项、一等奖 1 项、二等奖 1 项、三等奖 3 项 |
+| 省级竞赛 | 省级奖项 12 项 |
+| 学业荣誉 | 校级奖学金、校级三好学生、院级三好学生 |
+
+## Selected Work
+
+<div class="work-links">
+  <a class="work-link" href="Projects/RoboMaster-robot">
+    <strong>项目与实践档案</strong>
+    <span>查看部分工程实践、竞赛经历与项目记录。</span>
   </a>
-  <a class="card" href="Projects/buck-boost-supercapacitor">
-    <div class="card-icon">⚡</div>
-    <div class="card-body">
-      <div class="card-title">超级电容储能模块</div>
-      <div class="card-desc">双向Buck-Boost · STM32G431/F334 · 功率闭环 · 96%效率</div>
-    </div>
-  </a>
-  <a class="card" href="Projects/agricultural-equipment">
-    <div class="card-icon">🌾</div>
-    <div class="card-body">
-      <div class="card-title">马铃薯捡拾机器人</div>
-      <div class="card-desc">STM32F407 · 串级PID · 超声波+光电管 · 特等奖</div>
-    </div>
-  </a>
-  <a class="card" href="https://github.com/adminGQW" target="_blank">
-    <div class="card-icon">🐙</div>
-    <div class="card-body">
-      <div class="card-title">GitHub</div>
-      <div class="card-desc">查看我的所有开源项目 →</div>
-    </div>
+  <a class="work-link" href="About/index">
+    <strong>个人经历与技能</strong>
+    <span>查看较完整的教育背景、课程、荣誉与能力介绍。</span>
   </a>
 </div>
 
----
+<h2 id="knowledge-base">Knowledge Base</h2>
 
-## 竞赛荣誉
+<div class="knowledge-grid">
+  <a class="knowledge-card" href="书中自有黄金屋/MOC">
+    <strong>书中自有黄金屋</strong>
+    <span>课程、教材与基础理论笔记。</span>
+  </a>
+  <a class="knowledge-card" href="术中自有万钟粟/MOC">
+    <strong>术中自有万钟粟</strong>
+    <span>工程工具、学习方法与实践资料。</span>
+  </a>
+  <a class="knowledge-card" href="库中车马多如簇/MOC">
+    <strong>库中车马多如簇</strong>
+    <span>模块、协议与嵌入式相关资料。</span>
+  </a>
+</div>
 
-| 赛事 | 奖项 |
-|------|------|
-| 国际大学生智能农业装备创新大赛 | 特等奖 |
-| 全球校园AI算法精英大赛 | 一等奖 |
-| RoboMaster 超级对抗赛 | 二等奖 |
-| 蓝桥杯 EDA赛道 | 三等奖 |
-| ROBOTAC 速胜挑战赛 | 三等奖 |
-| 全国大学生物理实验竞赛 | 三等奖 |
+## Contact
 
-并获省级奖项 **12** 项、校级竞赛若干
-
----
-
-## 关于我
-
-> 江苏大学 · 微电子科学与工程 · 大三
-> 绩点 3.84/5.0 | 排名 6/70 | CET-6 546
-> 专注于嵌入式开发与硬件电路设计
-
-👉 [了解更多](About/index)
-
-> AI生成
+- Email: [guoqw_ee@163.com](mailto:guoqw_ee@163.com)
+- GitHub: [adminGQW](https://github.com/adminGQW)
+- More: [关于我](About/index)
