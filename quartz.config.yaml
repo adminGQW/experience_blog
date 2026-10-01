@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: zh-CN
-  baseUrl: /experience_blog
+  baseUrl: admingqw.github.io/experience_blog
   ignorePatterns:
     - private
     - templates

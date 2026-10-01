@@ -172,6 +172,34 @@
   min-height: 7.5rem;
 }
 
+// Make the global graph control discoverable while preserving the plugin's click behavior.
+.graph > .graph-outer > .global-graph-icon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  width: auto;
+  min-width: 7.2rem;
+  padding: 0.28rem 0.45rem;
+  color: var(--secondary);
+  background: color-mix(in srgb, var(--light) 88%, transparent);
+  opacity: 1;
+  white-space: nowrap;
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.graph > .graph-outer > .global-graph-icon::after {
+  content: "打开全局图谱";
+}
+
+.graph > .graph-outer > .global-graph-icon:hover,
+.graph > .graph-outer > .global-graph-icon:focus-visible {
+  background-color: var(--lightgray);
+  outline: 2px solid var(--secondary);
+  outline-offset: 1px;
+}
+
 @media (max-width: 800px) {
   .profile-home {
     grid-template-columns: 1fr;
