@@ -52,6 +52,9 @@ jobs:
       - name: Build Quartz
         run: npx quartz build -d content -v
 
+      - name: Add GitHub Pages trailing-slash routes
+        run: node scripts/prepare-github-pages.mjs
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
