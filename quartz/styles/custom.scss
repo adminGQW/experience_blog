@@ -226,6 +226,21 @@
     flex: 1 1 0;
     height: 0;
   }
+
+  .sidebar.left:has(.explorer) > .recent-notes {
+    flex: 0 1 10rem;
+    max-height: 10rem;
+    overflow-y: auto;
+    margin-top: 0.5rem;
+  }
+
+  .sidebar.left:has(.explorer) > .recent-notes > .recent-ul {
+    margin-top: 0.35rem;
+  }
+
+  .sidebar.left:has(.explorer) > .recent-notes .recent-li {
+    margin: 0.35rem 0;
+  }
 }
 
 @media (max-width: 800px) {

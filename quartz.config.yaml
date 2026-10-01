@@ -215,9 +215,9 @@ plugins:
     enabled: true
     options:
       title: 最近更新
-      limit: 5
+      limit: 3
       linkToMore: false
-      showTags: true
+      showTags: false
     layout:
       position: left
       priority: 55
