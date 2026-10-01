@@ -200,7 +200,26 @@
   outline-offset: 1px;
 }
 
+// Give the desktop explorer enough room for Chinese folder names and keep its tree usable.
+.sidebar.left:has(.explorer) {
+  min-width: 0;
+
+  .explorer {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .explorer-content {
+    max-height: calc(100vh - 10rem);
+    scrollbar-gutter: stable;
+  }
+}
+
 @media (max-width: 800px) {
+  .sidebar.left:has(.explorer) .explorer-content {
+    max-height: 100dvh;
+  }
+
   .profile-home {
     grid-template-columns: 1fr;
     gap: 1.25rem;

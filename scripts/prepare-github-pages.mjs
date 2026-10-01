@@ -18,7 +18,7 @@ async function walk(dir) {
       await stat(indexPath)
     } catch {
       await mkdir(path.dirname(indexPath), { recursive: true })
-      const target = encodeURIComponent(pageName)
+      const target = encodeURIComponent(`${pageName}.html`)
       await writeFile(
         indexPath,
         `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=../${target}"><script>location.replace("../${target}")</script></head><body>正在跳转…</body></html>`,
