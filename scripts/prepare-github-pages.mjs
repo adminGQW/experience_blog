@@ -1,4 +1,4 @@
-import { mkdir, readdir, copyFile, stat } from "node:fs/promises"
+import { mkdir, readFile, readdir, stat, writeFile } from "node:fs/promises"
 import path from "node:path"
 
 const root = path.resolve("public")
@@ -18,7 +18,12 @@ async function walk(dir) {
       await stat(indexPath)
     } catch {
       await mkdir(path.dirname(indexPath), { recursive: true })
-      await copyFile(fullPath, indexPath)
+      const routeName = encodeURIComponent(pageName)
+      const html = await readFile(fullPath, "utf8")
+      const rebasedHtml = html
+        .replace("<head>", '<head><base href="../">')
+        .replace(/(href=["'])#/g, `$1${routeName}/#`)
+      await writeFile(indexPath, rebasedHtml, "utf8")
     }
   }
 }
