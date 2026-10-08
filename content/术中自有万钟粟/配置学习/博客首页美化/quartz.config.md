@@ -1,6 +1,6 @@
 # quartz.config.ts 配置说明
 
-[← 返回 MOC](./MOC.md)
+[← 返回 MOC](术中自有万钟粟/配置学习/博客首页美化/MOC.md)
 
 > 实际文件路径：`D:\quartz\quartz.config.ts`
 > 这里只记录需要手动维护的配置项，其余保持默认。

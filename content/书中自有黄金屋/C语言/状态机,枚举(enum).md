@@ -1,6 +1,6 @@
 # 状态机, 枚举(enum)
 
-[←C++ 强枚举](../C++PrimerPlus/强枚举.md) |[← 返回MOC](./MOC.md) 
+[←C++ 强枚举](../C++PrimerPlus/强枚举.md) |[← 返回MOC](书中自有黄金屋/C语言/MOC.md)
 
 ```
 // 优雅的做法

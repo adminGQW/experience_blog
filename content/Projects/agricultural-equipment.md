@@ -93,4 +93,10 @@ AIGC:
 - [超声波测距](../库中车马多如簇/超声波/MOC)
 - [嵌入式工程架构](../库中车马多如簇/嵌入式工程架构/MOC)
 
+## 来源与证据边界
+
+- [项目 README](https://github.com/adminGQW/Agricultural_Equipment_Innovation_Competition/blob/main/README.md)：支持作业机构、UART DMA 读取 YAW、串级 PID、麦轮速度控制、超声波/光电管/编码器协同及超声波延迟限制等项目实现描述。
+- [超声波驱动](https://github.com/adminGQW/Agricultural_Equipment_Innovation_Competition/blob/main/Chassis2026_4_27_2/Chassis2026_4_27_2/Mycode/SR04.c)、[编码器驱动](https://github.com/adminGQW/Agricultural_Equipment_Innovation_Competition/blob/main/Chassis2026_4_27_2/Chassis2026_4_27_2/Mycode/encoder.c)、[底盘移动任务](https://github.com/adminGQW/Agricultural_Equipment_Innovation_Competition/blob/main/Chassis2026_4_27_2/Chassis2026_4_27_2/Task/Task_move.c)：可回查对应驱动与控制实现。
+- 比赛奖项与个人职责不是源码可证明的信息；奖项仍需对应赛事结果公示或用户提供的获奖材料支持。
+
 > AI生成

@@ -94,4 +94,11 @@ AIGC:
 - [CAN 总线](../库中车马多如簇/CAN总线/MOC)
 - [2025 哨兵机器人电控](RoboMaster-robot)
 
+## 来源与证据边界
+
+- [V1 项目说明](https://github.com/adminGQW/SUPERCAP_JSU/blob/main/gui_lin_li_gong/RM_SUPERCAP_JSU-main/RM_SUPERCAP_JSU-main/README.md)：支持 STM32G431、双向 Buck-Boost、CAN 协同及充放电控制的概述。
+- [V2 项目理解文档](https://github.com/adminGQW/SUPERCAP_JSU/blob/main/xiang_gang_ke_ji/PROJECT_OVERVIEW.md)：支持 STM32F334R8、HRTIM、Buck-Boost 架构、采样与控制软件结构。
+- 已查阅的 README 和项目说明没有附上 288 kHz、约 96% 峰值效率、360 W 瞬态输出的原始测试记录；页面保留这些项目数据，但在补入测试报告/测量记录前不视为已由公开仓库独立验证。
+- 板卡故障、上车测试结果和个人承担职责属于项目经历记录；需要时可在后续补充对应调试记录或测试材料。
+
 > AI生成

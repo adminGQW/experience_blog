@@ -1,7 +1,7 @@
 # **SKILL的知识地图**
 
 [←返回配置学习MOC
-](../MOC.md)
+](术中自有万钟粟/配置学习/MOC.md)
 
 > [来自知乎
 > ](https://zhuanlan.zhihu.com/p/2021964866966025168?share_code=YodIFyyqksLp&utm_psn=2050994430140851900)

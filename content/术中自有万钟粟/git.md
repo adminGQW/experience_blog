@@ -1,6 +1,6 @@
 # GIT
 
-[← 返回 MOC](MOC.md) | [← 主页](../index.md)
+[← 返回 MOC](术中自有万钟粟/MOC.md) | [← 主页](../index.md)
 
 > [参考教程](https://liaoxuefeng.com/books/git/introduction/index.html),[学习教程](https://learngitbranching.js.org/?locale=zh_CN)
 

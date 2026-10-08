@@ -1,6 +1,6 @@
 # 返回整数的getchar函数
 
-[← 返回 MOC](MOC.md) | [← 主页](../../index.md)
+[← 返回 MOC](书中自有黄金屋/C陷阱与缺陷/MOC.md) | [← 主页](../../index.md)
 
 ---
 

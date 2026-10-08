@@ -1,6 +1,6 @@
 # VPN代理配置
 
-[← 返回配置学习](./MOC.md)
+[← 返回配置学习](术中自有万钟粟/配置学习/MOC.md)
 
 > 一篇更底层的方法:[https://fuwari.oh1.top/posts/Essay/bypass-gfw/](https://fuwari.oh1.top/posts/Essay/bypass-gfw/)
 

@@ -33,7 +33,7 @@ AIGC:
 
 # API 价格换算
 
-[← 返回 MOC](MOC.md) | [← 主页](../../index.md)|[←AI配置与学习](AI配置与学习.md)
+[← 返回 MOC](术中自有万钟粟/配置学习/MOC.md) | [← 主页](../../index.md)|[←AI配置与学习](AI配置与学习.md)
 
 [click👉🏻参考网页](https://api.daheiai.com/),   这人收集了很多,但我感觉收集的没我现在用的好
 

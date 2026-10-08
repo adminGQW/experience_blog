@@ -1,6 +1,6 @@
 # C 陷阱与缺陷 — 知识地图
 
-[← 学科总览](../MOC.md) | [← 主页](../../index.md)
+[← 学科总览](书中自有黄金屋/MOC.md) | [← 主页](../../index.md)
 
 > 原书：*C Traps and Pitfalls* — Andrew Koenig
 

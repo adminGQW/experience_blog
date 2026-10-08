@@ -84,4 +84,11 @@ AIGC:
 - [CAN 总线](../库中车马多如簇/CAN总线/MOC)
 - [超级电容储能与功率管理模块](buck-boost-supercapacitor)
 
+## 来源与证据边界
+
+- [项目 README](https://github.com/adminGQW/2025RM_Sentry_JSU/blob/main/README.md)：支持 MCU、FreeRTOS、系统分层、云台/底盘/裁判系统和多板 CAN 协同等架构信息。
+- [云台模块说明](https://github.com/adminGQW/2025RM_Sentry_JSU/blob/main/application/gimbal/gimbal.md)：支持云台模块的消息订阅/发布与反馈流程。
+- [CAN 通信模块说明](https://github.com/adminGQW/2025RM_Sentry_JSU/blob/main/modules/can_comm/can_comm.md)：支持 CAN 多机通信模块的用途、接口和使用约束。
+- 国赛奖项、个人职责、比赛期间“零超功率”等结果，目前不能由上述仓库内容独立证明；这些仍作为项目记录，后续可补赛事公示或原始测试记录。
+
 > AI生成
