@@ -85,4 +85,11 @@ AIGC:
 - **开源仓库：** [adminGQW/SUPERCAP_JSU](https://github.com/adminGQW/SUPERCAP_JSU)
 - **相关竞赛：** 2025 全国大学生机器人大赛 RoboMaster 超级对抗赛
 
+## 相关技术笔记
+
+- [四开关 Buck-Boost](../术中自有万钟粟/PCB电路/四开关Buck-Boost)
+- [电源芯片选型](../术中自有万钟粟/PCB电路/电源芯片选型)
+- [CAN 总线](../库中车马多如簇/CAN总线/MOC)
+- [2025 哨兵机器人电控](RoboMaster-robot)
+
 > AI生成

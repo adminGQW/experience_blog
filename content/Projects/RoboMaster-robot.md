@@ -77,4 +77,11 @@ AIGC:
 - **开源仓库：** [adminGQW/2025RM_Sentry_JSU](https://github.com/adminGQW/2025RM_Sentry_JSU)
 - **上游框架：** [HNUYueLuRM/basic_framework](https://github.com/HNUYueLuRM/basic_framework)
 
+## 相关技术笔记
+
+- [嵌入式工程架构](../库中车马多如簇/嵌入式工程架构/MOC)
+- [FreeRTOS](../库中车马多如簇/嵌入式工程架构/freeRTOS/MOC)
+- [CAN 总线](../库中车马多如簇/CAN总线/MOC)
+- [超级电容储能与功率管理模块](buck-boost-supercapacitor)
+
 > AI生成

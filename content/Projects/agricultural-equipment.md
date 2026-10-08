@@ -86,4 +86,11 @@ AIGC:
 - **开源仓库：** [adminGQW/Agricultural_Equipment_Innovation_Competition](https://github.com/adminGQW/Agricultural_Equipment_Innovation_Competition)
 - **大赛官网：** [全国大学生智能农业装备创新大赛](https://uiaec.ujs.edu.cn/)
 
+## 相关技术笔记
+
+- [麦轮底盘](../库中车马多如簇/麦轮/MOC)
+- [编码器](../库中车马多如簇/编码器/MOC)
+- [超声波测距](../库中车马多如簇/超声波/MOC)
+- [嵌入式工程架构](../库中车马多如簇/嵌入式工程架构/MOC)
+
 > AI生成

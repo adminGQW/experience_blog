@@ -82,9 +82,9 @@ enableToc: true
 ## Selected Work
 
 <div class="work-links">
-  <a class="work-link" href="Projects/RoboMaster-robot">
+  <a class="work-link" href="Projects/MOC">
     <strong>项目与实践档案</strong>
-    <span>查看部分工程实践、竞赛经历与项目记录。</span>
+    <span>浏览工程项目案例、技术主题与可复用经验。</span>
   </a>
   <a class="work-link" href="About/index">
     <strong>个人经历与技能</strong>
