@@ -22,3 +22,7 @@
 | 移植与配置     | `FreeRTOSConfig.h`、`portmacro.h` 等入口与移植抓手   | [移植与配置](./移植与配置.md)                     | [操作系统与 RTOS 的关系](../../../书中自有黄金屋/操作系统/MOC.md#os-overview)                      |
 | 边界与易混点   | 不要硬套教材的点和高频易错概念                          | [边界与易混点](./边界与易混点.md)                 | [和 FreeRTOS 关联较弱但教材必须学的部分](../../../书中自有黄金屋/操作系统/MOC.md#os-weak-coupling) |
 | API 速查       | 常用 API 的最小索引                                     | [常用API速查](./常用API速查.md)                   | [同步、互斥与通信](../../../书中自有黄金屋/操作系统/MOC.md#os-sync)                                |
+
+## 工程应用
+
+- [2025 哨兵机器人电控](../../../Projects/RoboMaster-robot.md)：查看基于 FreeRTOS 的机器人业务层与实时控制实践。

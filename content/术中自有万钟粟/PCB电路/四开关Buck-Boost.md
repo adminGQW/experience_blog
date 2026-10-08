@@ -1,6 +1,6 @@
 # 四开关双向Buck-Boost
 
-[← 返回 PCB电路 知识地图](./MOC.md)|[←超级电容项目](https://github.com/evil0knight/RM_SUPERCAP_JSU)
+[← 返回 PCB电路知识地图](./MOC.md) | [← 超级电容项目经验](../../Projects/buck-boost-supercapacitor.md) | [外部参考实现：evil0knight/RM_SUPERCAP_JSU](https://github.com/evil0knight/RM_SUPERCAP_JSU)
 
 ## [演示动画](https://gemini.google.com/share/1e10a1f66229),很直观,
 

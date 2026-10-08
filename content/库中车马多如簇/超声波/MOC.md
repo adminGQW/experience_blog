@@ -6,7 +6,7 @@
 
 > 记录 HC-SR04 超声波测距模块的原理与 STM32 输入捕获驱动实现。
 >
-> 代码来源工程：[Intelligent_Agricultural_Equipment_Innovation_Competition](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition)（`Mycode/SR04.c`）
+> 代码来源工程：[Intelligent_Agricultural_Equipment_Innovation_Competition](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition)（[`SR04.c`](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition/blob/master/Chassis2026_4_27_2/Chassis2026_4_27_2/Mycode/SR04.c)）
 
 ## 笔记导航
 
@@ -27,3 +27,7 @@ $$d = \frac{v_s \cdot t}{2} \approx \frac{340\,\text{m/s} \times t}{2}$$
 <!-- 在此插入时序示意图 -->
 
 测量范围约 2 cm ~ 400 cm，盲区 < 2 cm 的数据需过滤。
+
+## 工程应用
+
+- [智能农业装备 — 马铃薯捡拾机器人](../../Projects/agricultural-equipment.md)：查看超声波测距与光电管、编码器融合定位的项目记录。

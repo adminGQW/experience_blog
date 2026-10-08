@@ -17,4 +17,8 @@
 | [CAN终端电阻](./CAN终端电阻.md)                 |
 | [CAN的CUBEMX配置+HAL库代码编写](cubemx配置.md)  |
 
+## 工程应用
+
+- [2025 哨兵机器人电控](../../Projects/RoboMaster-robot.md)：查看主控与超级电容控制板的 CAN 协同及离线恢复记录。
+
 ---

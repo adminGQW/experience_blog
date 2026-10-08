@@ -6,7 +6,7 @@
 
 > 记录正交增量编码器的原理与 STM32 TIM 编码器模式驱动实现。
 >
-> 代码来源工程：[Intelligent_Agricultural_Equipment_Innovation_Competition](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition)（`Mycode/encoder.c`）
+> 代码来源工程：[Intelligent_Agricultural_Equipment_Innovation_Competition](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition)（[`encoder.c`](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition/blob/master/Chassis2026_4_27_2/Chassis2026_4_27_2/Mycode/encoder.c)）
 
 ## 笔记导航
 
@@ -48,3 +48,7 @@ $$\text{RPM} = \Delta cnt \times \frac{60}{0.01 \times 11 \times 4 \times 14} = 
 | 减速比 | 14 |
 | 采样周期 | 10 ms |
 | 每圈脉冲数 | 616 |
+
+## 工程应用
+
+- [智能农业装备 — 马铃薯捡拾机器人](../../Projects/agricultural-equipment.md)：查看编码器测速与里程估算的项目应用。

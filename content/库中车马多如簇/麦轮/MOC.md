@@ -6,7 +6,7 @@
 
 > 记录麦克纳姆轮（麦轮）的结构原理、运动学解算与跑偏补偿方法。
 >
-> 代码来源工程：[Intelligent_Agricultural_Equipment_Innovation_Competition](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition)（`Mycode/mike.c`）
+> 代码来源工程：[Intelligent_Agricultural_Equipment_Innovation_Competition](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition)（[`mike.c`](https://github.com/evil0knight/Intelligent_Agricultural_Equipment_Innovation_Competition/blob/master/Chassis2026_4_27_2/Chassis2026_4_27_2/Mycode/mike.c)）
 
 ## 笔记导航
 
@@ -96,3 +96,7 @@ $$
 ```
 ω_cmd_compensated = ω_cmd + PID(ω_target - ω_actual)
 ```
+
+## 工程应用
+
+- [智能农业装备 — 马铃薯捡拾机器人](../../Projects/agricultural-equipment.md)：查看麦轮底盘与航向控制的项目记录。

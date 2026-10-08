@@ -83,6 +83,8 @@ AIGC:
 ## 相关链接
 
 - **开源仓库：** [adminGQW/SUPERCAP_JSU](https://github.com/adminGQW/SUPERCAP_JSU)
+- **V1 控制器代码：** [gui_lin_li_gong](https://github.com/adminGQW/SUPERCAP_JSU/tree/main/gui_lin_li_gong)
+- **V2 控制器代码：** [xiang_gang_ke_ji](https://github.com/adminGQW/SUPERCAP_JSU/tree/main/xiang_gang_ke_ji)
 - **相关竞赛：** 2025 全国大学生机器人大赛 RoboMaster 超级对抗赛
 
 ## 相关技术笔记
