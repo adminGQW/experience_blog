@@ -87,4 +87,4 @@ wsl --shutdown
 
 ---
 
-安装、迁移这些内容见: [WSL与Linux环境](../配置学习/WSL与Linux环境.md)
+安装、迁移这些内容见: [WSL与Linux环境](术中自有万钟粟/配置学习/WSL与Linux环境.md)

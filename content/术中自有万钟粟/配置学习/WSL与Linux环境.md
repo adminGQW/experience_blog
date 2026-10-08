@@ -1,6 +1,6 @@
 # WSL与Linux环境
 
-[← 返回 MOC](术中自有万钟粟/配置学习/MOC.md) | [← Linux系统](../Linux系统/MOC.md) | [← 主页](../../index.md)
+[← 返回 MOC](术中自有万钟粟/配置学习/MOC.md) | [← Linux系统](术中自有万钟粟/Linux系统/MOC.md) | [← 主页](../../index.md)
 
 ---
 

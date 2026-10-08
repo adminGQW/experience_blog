@@ -1,6 +1,6 @@
 # MOS 管知识
 
-[← 返回 PCB电路](术中自有万钟粟/PCB电路/MOC.md)|←[四开关Buck-Boost仿真器](四开关Buck-Boost仿真器.md)
+[← 返回 PCB电路](术中自有万钟粟/PCB电路/MOC.md) | [四开关 Buck-Boost 仿真记录](术中自有万钟粟/PCB电路/四开关Buck-Boost.md)
 
 ---
 

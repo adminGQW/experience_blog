@@ -17,7 +17,7 @@
 
 TX对RX,RX对TX
 
-![1774922231600](image/MOC/1774922231600.png)1起始,5~9数据位,可选1[奇偶校验](../../书中自有黄金屋/计算机网络/奇偶校验码.md),1 ~2停止位,这些串口助手都有
+![1774922231600](image/MOC/1774922231600.png)1起始,5~9数据位,可选1个奇偶校验位（相关笔记未收录）,1 ~2停止位,这些串口助手都有
 
 UART引脚--->![1774922523844](image/MOC/1774922523844.png)USB转TTL,要[下载驱动](https://pan.baidu.com/s/1OfEdpC5rkB4MYNhvWFjdkQ?pwd=4444)--->通过串口助手(电脑上就有基础版本的,底下搜串口助手就好,常见好用的[XCOM](https://pan.baidu.com/s/1ZDK04_Jja_ZhFBHBu4F5Cw?pwd=4444),[VOFA](https://pan.baidu.com/s/18cFV1iPln29mzxJqMRTMOw?pwd=4444))
 

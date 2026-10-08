@@ -2,7 +2,7 @@
 
 [← 返回 MOC](库中车马多如簇/UART内含串口助手安装包/MOC.md) | [← 主页](../../index.md)
 
-### [volatile笔记](../../书中自有黄金屋/C++PrimerPlus/volatile.md)
+### volatile 关键字
 
 ---
 
